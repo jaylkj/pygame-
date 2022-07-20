@@ -1,4 +1,8 @@
 # pygame_planeGame
+
+![](https://github.com/jaylkj/pygame_planeGame/raw/592d5b68ab51492ed7f078f91449d666fc61b90f/aaa.png)
+
+
 # 一、项目概述
 hm_01_pygame_base05.py  
 hm_01_pygame_base06.py，飞机大战【非面向对象的飞机大战，作为一个熟悉，热身】  
@@ -64,5 +68,4 @@ plane_main2.py,plane_sprites.py,是【正式】的飞机大战项目
 11.大怪3 【待续】  
 
 # 三、具体演示
-
 
