@@ -63,3 +63,6 @@ plane_main2.py,plane_sprites.py,是【正式】的飞机大战项目
 
 11.大怪3 【待续】  
 
+# 三、具体演示
+
+
