@@ -1,9 +1,17 @@
 # pygame_planeGame
 
-![](https://github.com/jaylkj/pygame_planeGame/raw/592d5b68ab51492ed7f078f91449d666fc61b90f/aaa.png)
+# 一、具体演示
+1.怪兽分为小怪，和大怪；大怪可以发射子弹  
+2.英雄飞机共有10个生命值  
+3.英雄飞机可以上下左右移动  
+4.显示了英雄生命值，消灭怪兽数量，  
+5.提供了供应包，可以改变英雄飞机发射的子弹  
 
+![aaa2](https://user-images.githubusercontent.com/75937285/180184874-324de7d4-56c1-4dfa-ac00-344c38e11475.jpg)
 
-# 一、项目概述
+![bbb](https://user-images.githubusercontent.com/75937285/180185029-e1403438-4feb-4d5b-9440-ce9771636dd4.png)
+
+# 二、项目概述
 hm_01_pygame_base05.py  
 hm_01_pygame_base06.py，飞机大战【非面向对象的飞机大战，作为一个熟悉，热身】  
 message.py ,message2.py，是在pygame屏幕上输出一句话【作为一个熟悉，热身】  
@@ -11,7 +19,7 @@ plane_main2.py,plane_sprites.py,是【正式】的飞机大战项目
 
 使用python实现飞机大战游戏，适合python基础入门，同时在一般的飞机大战基础上，新增了很多功能  
 
-# 二、项目具体细节
+# 三、项目具体细节
 1.背景，飞机  【完成】    
 2.敌机，多个 ---定时器+事件监听，销毁【完成】     
 3.飞机子弹 【完成】    
@@ -67,5 +75,5 @@ plane_main2.py,plane_sprites.py,是【正式】的飞机大战项目
 
 11.大怪3 【待续】  
 
-# 三、具体演示
+
 
